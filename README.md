@@ -1,5 +1,5 @@
-# att-git-01
+# Att-git-01
 Primeira atividade de Git e GitHub da matéria de fundamentos de eng. software
 
-# aluno
+# Aluno
 Alexandre Bonissoni de Oliveira
